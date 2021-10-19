@@ -4,4 +4,4 @@ print('This is file2')
 a = 12
 b = 17
 print('sum is:',a+b)
-print('check branch and merge')
+print('checking branching and merging')
